@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834444430066",
+    "project_id": "healthmanage-d1145",
+    "storage_bucket": "healthmanage-d1145.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834444430066:android:b1f211c632423df35ede6b",
+        "android_client_info": {
+          "package_name": "com.techease.health_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_iiJGISzWnR3ciPyJ42hLwFxOHr902f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
